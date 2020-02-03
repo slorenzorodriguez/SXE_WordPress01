@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Filtro Customizado
+Plugin Name: Bloqueador de palabras
 Plugin URI:  http://link to your plugin homepage
 Description: Plugoin filtro ejemplo
 Version:     0.1
